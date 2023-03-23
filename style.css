@@ -33,3 +33,9 @@ p {
     margin: 0 auto 8px;
     border: 1px grey solid;
 }
+
+#grid{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
