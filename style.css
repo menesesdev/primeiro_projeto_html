@@ -1,0 +1,35 @@
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: normal;
+}
+
+h1 span {
+    font-weight: bold;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+span, a {
+    color: #ff9900;
+}
+
+p {
+    color: #7d7987;
+}
+
+#house{
+    width: 592px;
+    margin: auto;
+}
+
+#line{
+    width: 568px;
+    height: 0px;
+    margin: 0 auto 8px;
+    border: 1px grey solid;
+}
